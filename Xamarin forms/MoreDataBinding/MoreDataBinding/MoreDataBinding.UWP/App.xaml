@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="MoreDataBinding.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MoreDataBinding.UWP"
+    RequestedTheme="Light">
+
+</Application>

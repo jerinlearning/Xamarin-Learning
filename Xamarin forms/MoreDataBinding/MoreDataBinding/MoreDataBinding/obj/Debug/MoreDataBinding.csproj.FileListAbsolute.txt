@@ -1,0 +1,16 @@
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\MoreDataBinding.dll
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\MoreDataBinding.pdb
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Core.dll
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Core.xml
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.csproj.CoreCompileInputs.cache
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.MainPage.xaml.g.cs
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.App.xaml.g.cs
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.dll
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.pdb
+D:\Training\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.csprojResolveAssemblyReference.cache
